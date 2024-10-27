@@ -37,9 +37,14 @@ url = "mailto:enzoraziore@gmail.com"
 [[menu.header]]
 name = "about"
 weight = 0
-url = "/content/about.md"
+url = "about"
 
 [[menu.header]]
 name = "posts"
 weight = 0
-url = "/content/posts"
+url = "blog"
+
+[[menu.header]]
+name = " "
+weight = 1
+url = "/"
