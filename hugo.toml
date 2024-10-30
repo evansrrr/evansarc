@@ -1,6 +1,6 @@
 baseURL = 'https://nightfall-r.netlify.app/'
 languageCode = 'en-us'
-title = 'NightFall by RazioreG'
+title = 'NightFall by Evans'
 theme = 'nightfall'
 
 [params]
